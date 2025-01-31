@@ -2,7 +2,7 @@
 ### I'm [Diego Moreno Moran](https://github.com/ImDiegoMoreno)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImDiegoMoreno)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ImDiegoMoreno)
+[![Twitter](https://img.shields.io/twitter/url)](https://x.com/ImDiegoMoreno)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Diego-Moreno-Moran)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/imdiegomoreno)
 
